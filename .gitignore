@@ -1,0 +1,28 @@
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Environment variables
+.env*
+
+# Build artifacts (adjust based on your build tool)
+.next
+out  # Adjust for Nuxt.js or other build tools
+
+# Cache directories (adjust based on your tools)
+.npm
+.cache  # Adjust for Gatsby or other tools
+
+# Temporary/generated files (adjust based on your project)
+tmp/
+generated/
+
+# Testing artifacts
+coverage/
+.nyc_output
+*.lcov
+
+# IDE-specific files (adjust based on your IDE)
+.vscode/settings.json
